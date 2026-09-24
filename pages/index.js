@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Clone Tab-News - Correto</h1>
+    return <h1>Alanny, te amo!</h1>
 }
 
 export default Home;
